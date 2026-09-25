@@ -112,4 +112,14 @@ brew uninstall --cask mdviewer
 
 ---
 
-Made by [Crocopliers](https://www.crocopliers.com)
+<p align="center">
+  <a href="https://www.crocopliers.com">
+    <img src="images/crocopliers.png" alt="Crocopliers" width="64">
+  </a>
+</p>
+
+<p align="center">
+  <strong>Made by <a href="https://www.crocopliers.com">Crocopliers</a></strong><br>
+  Developer tools built by engineers — for engineers, teams, and the people who manage them.<br>
+  We make software that stays out of your way and just works.
+</p>
