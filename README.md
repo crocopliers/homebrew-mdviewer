@@ -20,7 +20,7 @@
 ## Install
 
 ```bash
-brew tap crocopliers/mdviewer-homebrew
+brew tap crocopliers/mdviewer
 brew install --cask mdviewer
 ```
 
