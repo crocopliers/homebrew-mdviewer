@@ -7,7 +7,7 @@ cask "mdviewer" do
   desc "Native macOS Markdown viewer with Mermaid diagrams and Git history"
   homepage "https://getmd.ma"
 
-  depends_on macos: ">= :ventura"
+  depends_on macos: :ventura
 
   app "MDViewer.app"
 
