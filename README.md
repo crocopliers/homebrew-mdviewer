@@ -1,6 +1,10 @@
-# MDViewer — Homebrew Cask
+<p align="center">
+  <img src="images/icon.png" alt="MDViewer" width="128">
+</p>
 
-**The fastest way to install [MDViewer](https://getmd.ma) on your Mac.**
+<h1 align="center">MDViewer — Homebrew Cask</h1>
+
+<p align="center"><strong>The fastest way to install <a href="https://getmd.ma">MDViewer</a> on your Mac.</strong></p>
 
 [![Website](https://img.shields.io/badge/Website-getmd.ma-blue?style=flat-square)](https://getmd.ma)
 [![Mac App Store](https://img.shields.io/badge/Mac_App_Store-Download-black?style=flat-square&logo=apple)](https://apps.apple.com/app/id6767140339)
