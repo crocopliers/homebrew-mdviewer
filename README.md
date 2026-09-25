@@ -21,10 +21,11 @@
 
 ```bash
 brew tap crocopliers/mdviewer
+brew trust crocopliers/mdviewer
 brew install --cask mdviewer
 ```
 
-That's it. MDViewer lands in your Applications folder, ready to open any `.md` file.
+The `trust` step is a one-time Homebrew requirement for third-party casks. After that, MDViewer lands in your Applications folder, ready to open any `.md` file.
 
 ## What is MDViewer?
 
